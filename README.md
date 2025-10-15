@@ -21,18 +21,22 @@ bash train.sh
 A.1 Audio–visual feature similarity comparison.
 (a) Average cosine similarity between visual and audio features under time-step alignment. (b) Local peak similarity between visual and audio features.
 
-![Audio–visual feature similarity comparison.](figure3.png)
+<img width="1268" height="407" alt="figure3" src="https://github.com/user-attachments/assets/420ae419-6c38-42d0-930d-0aad80592a10" />
+
 
 A.2 Effect of Hyperparameters on Model Performance
-![Effect of Hyperparameters on Model Performance](image.png)
+<img width="1235" height="518" alt="image" src="https://github.com/user-attachments/assets/d1c5fbc3-f906-4849-af28-18898fe9e8ca" />
+
 
 A.3 Seven-Class Confusion Matrices of Various Methods on the MOSI and MOSEI Datasets Note: The
 labels -3 to 3 represent strongly negative, weakly negative, negative, neutral, weakly positive, positive, and strongly
 positive, respectively
-![Seven-Class Confusion Matrices](image-1.png)
+<img width="1282" height="1487" alt="image" src="https://github.com/user-attachments/assets/d4bb7e74-d368-48cc-a5d4-fcd18452e983" />
+
 
 A.4 Performance under different random missing rates on MOSI and MOSEI. Best results are in bold.
-![Performance under different random missing rates on MOSI and MOSEI](image-2.png)
+<img width="1053" height="1615" alt="image" src="https://github.com/user-attachments/assets/c4f9dc44-81ce-4658-8beb-ec63526cf095" />
+
 
 
 ## Note
